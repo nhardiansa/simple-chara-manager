@@ -22,13 +22,6 @@ function App() {
     }
   },[trigger])
 
-  // const getResult = (result) => {
-  //   setData([
-  //     ...data,
-  //     result
-  //   ])
-  // }
-
   const inputChara = (data) => {
 
     if (data.id) {
